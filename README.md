@@ -4,6 +4,8 @@
 
 This list is for MSFT FTE only. Most sites mentioned are internal sites and inaccessible to the public.
 
+Also check <https://aka.ms/freestuff>.
+
 ## ☁️Azure
 
 * **$150 monthly credit.** Use credits in Azure to learn, explore, and try Azure services.
